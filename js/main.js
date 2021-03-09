@@ -1,7 +1,7 @@
 var myName = prompt("Enter Your Name")
 
 if (myName==undefined || myName==""){
-    myName = "noName:("
+    myName = "iDontHaveAName:("
 }
 
 function sendMessage() {
